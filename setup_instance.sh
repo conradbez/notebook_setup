@@ -1,4 +1,4 @@
-mv .jupyter /home/ubuntu/.jupyter
+cp .jupyter /home/ubuntu/.jupyter
 
 python3 -m virtualenv .venv
 
